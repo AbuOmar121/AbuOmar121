@@ -5,11 +5,11 @@ Software Developer focused on building scalable, clean, and production-ready app
 </p>
 
 <p align="center">
-I specialize in Flutter for mobile development and Spring Boot for backend systems, with a strong focus on clean architecture, REST APIs, and maintainable code.
+I specialize in Flutter for mobile development and Spring Boot for backend systems, with strong focus on clean architecture and REST APIs.
 </p>
 
 <p align="center">
-I enjoy building real-world systems, solving problems, and continuously improving my skills in backend engineering and mobile development.
+Always improving in system design, backend engineering, and mobile performance optimization.
 </p>
 
 ---
@@ -54,11 +54,11 @@ I enjoy building real-world systems, solving problems, and continuously improvin
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AbuOmar121&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbuOmar121&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuOmar121&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbuOmar121&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
