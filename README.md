@@ -5,11 +5,11 @@ Software Developer focused on building scalable, clean, and production-ready app
 </p>
 
 <p align="center">
-I specialize in Flutter (mobile) and Spring Boot (backend), with strong focus on clean architecture, REST APIs, and system design.
+I specialize in Flutter for mobile development and Spring Boot for backend systems, with a strong focus on clean architecture, REST APIs, and maintainable code.
 </p>
 
 <p align="center">
-I enjoy building real-world systems, improving performance, and continuously learning backend and mobile engineering.
+I enjoy building real-world systems, solving problems, and continuously improving my skills in backend engineering and mobile development.
 </p>
 
 ---
@@ -54,11 +54,11 @@ I enjoy building real-world systems, improving performance, and continuously lea
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abuomar121&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbuOmar121&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuomar121&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuOmar121&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +66,7 @@ I enjoy building real-world systems, improving performance, and continuously lea
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=abuomar121&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AbuOmar121&theme=radical&hide_border=true"/>
 </p>
 
 ---
