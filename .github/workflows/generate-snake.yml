@@ -19,8 +19,8 @@ jobs:
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
-          github_user_name: AbuOmar121
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ secrets.GH_USERNAME || 'AbuOmar121' }}
+          github_token: ${{ secrets.GH_PAT || github.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
