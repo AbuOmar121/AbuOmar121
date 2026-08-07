@@ -1,35 +1,36 @@
-<a id="top"></a>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F2027,203A43,2C5364&height=20&section=header&text=Abdalrhman%20Masalha&fontSize=60&fontAlignY=33&desc=Software%20Developer%20|%20Mobile%20%26%20Backend&descAlignY=53&fontColor=ffffff&descSize=22&animation=twinkling" width="100%" alt="Abdalrhman Banner" />
 
-  <h2>Building practical solutions with clean architecture and modern tools.</h2>
+# Salam 👋, I'm Abdalrhman Masalha
 
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=4facfe&center=true&vCenter=true&width=750&lines=Flutter+Mobile+Developer;Backend+Developer;Spring+Boot+Developer;.NET+Core+Developer;Building+Scalable+APIs" alt="Typing SVG" />
-  </p>
+### 🚀 Software Developer from Jordan
 
-  <p>
-    <a href="https://www.linkedin.com/in/a-masalha/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/AbuOmar121"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:abdalrhmanmasalha9@gmail.com"><img src="https://img.shields.io/badge/Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Flutter+Mobile+Developer;Backend+Developer;Spring+Boot+Developer;.NET+Core+Developer;" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
 ---
 
-## 🌌 About Me
+<div align="center">
 
-<b>Software developer from Jordan focused on building mobile and backend systems.</b><br><br>
-I enjoy turning ideas into reliable applications using Flutter, .NET, Spring Boot, and clean architectural patterns. My focus is on creating maintainable software, strong APIs, and developer-friendly experiences.<br><br>
-I’m especially interested in mobile development, backend services, and building solutions that are practical, scalable, and easy to evolve.
+### 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/a-masalha/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:abdalrhmanmasalha9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+<div align="center">
+
+### 🛠️ Languages & Technologies
+
+</div>
 
 <div align="center">
 
@@ -77,37 +78,82 @@ I’m especially interested in mobile development, backend services, and buildin
 
 ---
 
-## 📂 Featured Projects
+<div align="center">
 
-- 📚 Sair Library Management System — C# | .NET Core | EF Core | SQL Server | JWT | Clean Architecture
-- 🚦 SAIR Accident Reporting API — Dart Frog | REST API | JSON Database | Backend Services
-- 📱 Flutter Applications — Flutter | Riverpod | MVVM | Firebase | REST APIs
+### 🚀 Featured Projects
 
+</div>
 
-## 🏆 Achievements
+<div align="center">
 
-- 🥇 Crown Prince Award – Best Government Application (5th Edition)
-- 🏅 JCPC Finalist
-- 🏅 Amman CPC Finalist
-- 🚀 FinTech Rally Hackathon 2025 Participant
+📚 **Sair Library Management System**  
+C# | .NET Core | EF Core | SQL Server | JWT | Clean Architecture
+
+<br>
+
+🚦 **SAIR Accident Reporting API**  
+Dart Frog | REST API | JSON Database | Backend Services
+
+<br>
+
+📱 **Flutter Applications**  
+Flutter | Riverpod | MVVM | Firebase | REST APIs
+
+</div>
 
 ---
+
+<div align="center">
+
+### 🏆 Achievements
+
+</div>
+
+<div align="center">
+
+🥇 Crown Prince Award – Best Government Application (5th Edition)
+
+<br>
+
+🏅 JCPC Finalist
+
+<br>
+
+🏅 Amman CPC Finalist
+
+<br>
+
+🚀 FinTech Rally Hackathon 2025 Participant
+
+</div>
+
+---
+
+<div align="center">
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbuOmar121&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuOmar121&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://img.shields.io/badge/Activity-Consistent-4facfe?style=for-the-badge&logo=github" alt="Activity badge" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Mobile-0D1117?style=for-the-badge&logo=github" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Projects-Open%20for%20Collaboration-2ea44f?style=for-the-badge&logo=github" alt="Projects badge" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuOmar121&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbuOmar121/AbuOmar121/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbuOmar121/AbuOmar121/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AbuOmar121/AbuOmar121/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<br />
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AbuOmar121&label=PROFILE+VIEWS&color=2196F3&style=flat-square" />
   <br /><br />
   <b>© 2026 Abdalrhman Masalha</b>
 </div>
+
