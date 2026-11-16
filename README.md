@@ -4,7 +4,7 @@
 
 ### 🚀 Software Developer from Jordan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Flutter+Mobile+Developer;Backend+Developer;Spring+Boot+Developer;.NET+Core+Developer;Full Stack Developer;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Flutter+Mobile+Developer;Backend+Developer;Spring+Boot+Developer;.NET+Core+Developer;Full+Stack+Developer;" alt="Typing SVG" />
 
 </div>
 
